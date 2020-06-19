@@ -13,3 +13,6 @@ dependencies:
 - name: rom61
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: rom62
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
